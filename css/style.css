@@ -1,0 +1,42 @@
+.navbar{
+margin-bottom: 0;
+border-radius: 0;
+background-color:#1a1a1a; 
+color: #fff;
+padding: 1% 0;
+font-size: 1.2em;
+border: 0;
+
+
+}
+.navbar-brand{
+	float:left;
+	min-height: 5px;
+	padding: 0 15px 5px;
+}
+.navbar-brand img{
+	height: 155px;
+
+}
+#myNavbar{
+
+	background-color: #1a1a1a;
+	
+	border: 0;
+
+}
+
+#myNavbar a{
+	color:white;
+	text-align: center;
+}
+
+
+.navbar-inverse .navbar-nav .active a,.navbar-inverse .navbar-nav .active a:focus,.navbar-inverse .navbar-nav .active a:hover{
+	color: #fff;
+	background-color: #fa7b80;
+}
+body{
+background-color: rgb(255,0,0,0.7);
+
+}
